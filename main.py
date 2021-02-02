@@ -1,2 +1,3 @@
-print("Hello World")
+from hello import hello
+hello()
 
